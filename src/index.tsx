@@ -20,6 +20,8 @@ if (import.meta.env.DEV) {
 }
 
 const container = document.getElementById("app");
+const token = btoa(`${process.env.USERNAME}:${process.env.PASSWORD}`);
+localStorage.setItem('authorization_token', token);
 // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
 const root = createRoot(container!);
 root.render(
