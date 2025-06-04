@@ -1,16 +1,3 @@
-
-# Task 2
-## 2.1
-- S3 bucket website endpoint: http://jspracticebucket250408.s3-website.eu-north-1.amazonaws.com 
-- CloudFront url: https://d1es1adlnsw2kh.cloudfront.net
-![alt text](<Pasted Graphic 5.png>)
-![alt text](<Pasted Graphic 6.png>)
-
-## 2.2
-- CloudFront url: https://dm2zzkeues9df.cloudfront.net/
-- infra pr: https://github.com/claireqian1007/aws-practice-infra/pull/1
-![image](https://github.com/user-attachments/assets/f787f2eb-ced9-4b78-99a1-1adc6a787f3f)
-
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
